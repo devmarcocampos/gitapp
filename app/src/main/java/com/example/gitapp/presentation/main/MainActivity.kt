@@ -1,8 +1,8 @@
-package com.example.gitapp
+package com.example.gitapp.presentation.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.gitapp.ui.main.MainFragment
+import com.example.gitapp.R
 
 class MainActivity : AppCompatActivity() {
 
