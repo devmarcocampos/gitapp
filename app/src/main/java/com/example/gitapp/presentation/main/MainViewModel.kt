@@ -5,7 +5,6 @@ import androidx.lifecycle.MutableLiveData
 import com.example.gitapp.BaseViewModel
 import com.example.gitapp.data.usecase.GetRepositoriesUseCase
 import com.example.gitapp.domain.entity.Repository
-import com.example.gitapp.domain.repository.MainRepository
 import kotlinx.coroutines.launch
 import java.lang.Exception
 
